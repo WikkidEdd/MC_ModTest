@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:quartz"
+  },
+  "addition": {
+    "item": "minecraft:diamond_block"
+  },
+  "result": {
+    "item": "my_first_mod:item_diamond_quartz"
+  }
+}

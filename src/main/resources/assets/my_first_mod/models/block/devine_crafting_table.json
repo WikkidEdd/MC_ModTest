@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "my_first_mod:blocks/devinecraftingtable",
+    "up": "my_first_mod:blocks/devinecraftingtable",
+    "north": "my_first_mod:blocks/devinecraftingtable",
+    "east": "my_first_mod:blocks/devinecraftingtable",
+    "south": "my_first_mod:blocks/devinecraftingtable",
+    "west": "my_first_mod:blocks/devinecraftingtable",
+    "particle": "my_first_mod:blocks/devinecraftingtable"
+  }
+}

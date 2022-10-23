@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "my_first_mod:block/devine_crafting_table"
+    },
+    "facing=east": {
+      "model": "my_first_mod:block/devine_crafting_table",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "my_first_mod:block/devine_crafting_table",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "my_first_mod:block/devine_crafting_table",
+      "y": 270
+    }
+  }
+}

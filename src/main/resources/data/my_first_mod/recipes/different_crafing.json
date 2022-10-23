@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "my_first_mod:item_diamond_quartz"
+    },
+    "3": {
+      "item": "my_first_mod:item_diamond_quartz"
+    },
+    "4": {
+      "item": "minecraft:crafting_table"
+    },
+    "5": {
+      "item": "my_first_mod:item_diamond_quartz"
+    },
+    "7": {
+      "item": "my_first_mod:item_diamond_quartz"
+    }
+  },
+  "result": {
+    "item": "my_first_mod:devine_crafting_table",
+    "count": 1
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "mod_elements": [
+    {
+      "name": "ItemDiamondQuartz",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_diamond_quartz"
+    },
+    {
+      "name": "RecipeDiamondQuartz",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_diamond_quartz"
+    },
+    {
+      "name": "DevineCraftingTable",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "devine_crafting_table"
+    },
+    {
+      "name": "GUIDevineCraftingTable",
+      "type": "gui",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gui_devine_crafting_table"
+    },
+    {
+      "name": "RecipeDevineCraftingTable",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_devine_crafting_table"
+    },
+    {
+      "name": "DifferentCrafing",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "different_crafing"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.my_first_mod.item_diamond_quartz": "Item Diamond Quartz",
+      "block.my_first_mod.devine_crafting_table": "Devine Crafting Table"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "my_first_mod",
+    "modName": "My First Mod",
+    "version": "1.0.0",
+    "author": "Edd, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "modElementsPackage": "net.mcreator.myfirstmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
