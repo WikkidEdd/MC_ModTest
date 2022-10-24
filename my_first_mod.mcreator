@@ -47,6 +47,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "different_crafing"
+    },
+    {
+      "name": "ItemHandle",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "item_handle"
+    },
+    {
+      "name": "RecipeSwordHandle",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "recipe_sword_handle"
     }
   ],
   "variable_elements": [],
@@ -54,12 +70,18 @@
   "language_map": {
     "en_us": {
       "item.my_first_mod.item_diamond_quartz": "Item Diamond Quartz",
+      "item.my_first_mod.item_handle": "Sword Handle",
       "block.my_first_mod.devine_crafting_table": "Devine Crafting Table"
     }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "recipes",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "my_first_mod",
